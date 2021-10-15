@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void foo()
+void Good Function ()
 {
 	
  	printf("Hello, World!");
@@ -11,7 +11,7 @@ void foo()
 int main()
 {
 
-	foo();
+	Good Function();
 
 	return 0;
 }
