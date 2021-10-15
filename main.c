@@ -1,9 +1,17 @@
 #include <stdio.h>
 
+void Good Function ()
+{
+	
+ 	printf("Hello, World!");
+}
+
+
+
 int main()
 {
 
-	printf("Hello, World!");
+	Good Function();
 
 	return 0;
 }
